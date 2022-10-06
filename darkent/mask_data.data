@@ -1,6 +1,0 @@
-classes = 38
-train = data/train.txt
-valid = data/valid.txt
-test = data/test.txt
-names = data/ClassNames.names
-backup = backup/
