@@ -1,2 +1,2 @@
 # xrayscan_project
-9/19 첫 정리 완료
+주제 : 공항 보안시설 X-ray scan Image Object Detection 프로젝트
